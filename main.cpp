@@ -25,6 +25,8 @@
  * loop calls rotary encoder  / button loop only, the rest is 'event' driven
  * bigget learning, fonts, led matrix setup
 
+ Thanks to all the open source community, free for any use, except harm to people.
+  
 */
 
 
@@ -32,6 +34,8 @@
  * LAB Name: Arduino DC Motor Control With L298N Driver
  * Author: Khaled Magdy
  * For More Info Visit: www.DeepBlueMbedded.com
+
+ Mr Magdy, thank your, your work is amazing
 */
 
 
