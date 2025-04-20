@@ -26,6 +26,8 @@
  * bigget learning, fonts, led matrix setup
 
  Thanks to all the open source community, free for any use, except harm to people.
+
+  Mr Magdy, thank you, your work and web site are amazing
   
 */
 
@@ -35,7 +37,7 @@
  * Author: Khaled Magdy
  * For More Info Visit: www.DeepBlueMbedded.com
 
- Mr Magdy, thank your, your work is amazing
+ 
 */
 
 
